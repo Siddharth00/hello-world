@@ -1,2 +1,4 @@
 # hello-world
-This is a demo/trial repository
+
+Hi
+I am learning how to work with GIThub.
